@@ -12,4 +12,4 @@ Um das Programm nutzen zu können müsst ihr:
 2) Anschließend die TAGs für die jweiligen länder, sowie den API Access und Secret Key in die "Amazon.cs" eintragen<br />
 <br />
 <br />
-
+Zudem muss das Scrapping überarbeitet werden, da Amazon die Seite (z.b. https://www.amazon.de/gp/aw/ol/B0080C1EOQ) von der die Angebots Infos abgerufen werden überarbeitet hat.
